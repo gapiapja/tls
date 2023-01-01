@@ -19,7 +19,6 @@ os.system("color 8")
 time.sleep(3)
 os.system("cls")
 power = 100
-os.system(f"title IzcoR1PP3R ( Premium ) ")
 
 pasw = "izcopremium"
 
